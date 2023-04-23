@@ -1,0 +1,49 @@
+Command + A Select All
+Command + B Make Text Bold
+Command + C Copy to Clipboard
+Command + D New Bookmark (web)
+Duplicate (Finder)
+Command + E Eject Attached Storage
+Command + F Find
+Command + H Hide Window
+Command + I Inspector
+Command + J View Options
+Command + M Minimize Into Dock
+Command + N New Document (Pages/Word
+New Finder Window (Finder)
+Command + O Open File
+Command + P Print
+Command + Q Quit
+Command + R Reload/Refresh (web)
+Command + S Save
+(for “Save As” add Option)
+Command + T New Tab (web/finder)
+Command + V Paste Clipboard
+Command + W Close Window
+Command + X Cut
+Command + Z Undo
+Command + Shift + Z Redo
+Command + Option + Esc Force Quit
+Command + Shift + 5 Screenshot
+Spacebar Scroll Down 1 Page (web)
+Quick Preview (Finder)
+Shift + Spacebar Scroll Up 1 Page (web)
+Command + Delete Send File to Trash
+Command + Option + P Show Path Bar
+Command + / Show Status Bar (Finderr)
+Option + J Show View Options (Finder)
+Command + 1 App View (Finder)
+Command + 2 List View
+Command + 3 Column View
+Command + 4 Gallery View
+Command + Option + D Reveal/Hide Dock
+Command + Control + Spacebar Emoji Keyboard
+Command + Spacebar Spotlight
+Command + Shift + D Go to Desktop
+Command + Shift + I Go to iCloud Drive
+Command + Shift + H Go to Home Folder
+Command + Shift + O Go to Documents Folder
+Command + Shift + N Create New Folder
+Control + Command + Backspace Empty Trash
+Control + Command + Backspace + Option Empty Trash (no warning screen)
+Command + , Settings/Preferences

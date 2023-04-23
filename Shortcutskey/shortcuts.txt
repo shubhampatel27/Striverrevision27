@@ -1,0 +1,86 @@
+# Keyboard shortcuts for coding 
+1. Copy = Ctrl + c
+
+
+2. Cut = Ctrl + X
+
+
+3. Paste = command + V
+
+
+4 Select all =   command+a
+
+5. Comments = command + /
+
+6. Remove tab =
+Shift + tab
+
+7. Selecting
+particular word =
+Ctrl + d
+
+8. Copy paste bunch = Ctrl + Shift + d
+of sentence
+
+9. Moving sentence up or down=
+command + Shift + up/down-arrow in mac (option + up/down-arrow)
+
+10. Selecting Fast =
+command + Shift + right/left-arrow
+
+11. Selecting Slow =
+Shift + right/left-arrow
+
+12. Selecting multiple Lines = Shift + down-arrow
+
+13. New file =
+Ctrl + n
+
+14. New desktop =
+command + Win + d
+
+15. Switch desktop =
+command + Win + left/right-arrow
+
+16. Remove desktop =
+Ctri + Win + F4
+
+Additional ShortCuts
+
+17. New tab =
+Ctrl + t
+
+18. Remove tab =
+Ctri + W
+
+19. Restore tab =
+Ctrl + Shift + t
+
+20. History page =
+Ctri + h
+
+21. Download page =
+Ctri + j
+
+22. Chrome dev tools = F12 / Ctri + Shift i
+
+23. minimize every =
+Win + d
+
+24. open explorer =
+Win + e
+
+25. setting =
+Win + i
+
+26. notification tab=
+Win + a
+
+27. Lock screen
+Win +l
+
+28. switch app
+Alt + tab
+
+29. switch tabs
+Ctrl + tab
