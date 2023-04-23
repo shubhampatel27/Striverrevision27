@@ -1,0 +1,21 @@
+Open the VS Code terminal by pressing Ctrl + Shift + (Windows/Linux) or Cmd + Shift + (Mac).
+
+Navigate to the directory where your local repository is located using the cd command. For example, if your repository is in a directory named "my-project", you can use the command: cd my-project.
+
+Check the status of your local repository using the git status command. This will show you which files have been modified or added.
+
+Add any new or modified files to the staging area using the git add command. For example, you can use the command: git add . to add all the files in the directory to the staging area.
+
+Commit the changes using the git commit command. For example, you can use the command: git commit -m "Add new feature" to commit the changes with a message.
+
+Push the changes to the remote repository on GitHub using the git push command. For example, you can use the command: git push origin main to push the changes to the "main" branch of the repository.
+
+Enter your GitHub username and password when prompted to authenticate the push.
+
+
+
+git status
+git add .
+git status
+git commit -m "checking From Terminal"
+git push -u origin main
